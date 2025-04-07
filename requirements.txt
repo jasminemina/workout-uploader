@@ -1,1 +1,6 @@
 streamlit
+pillow
+pytesseract
+gspread
+oauth2client
+pandas
