@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "workout-uploader-456118",
+  "private_key_id": "838692a1ed3c9dfa201ad6bf085e0fcd75aad551",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDmus1NhhSS5r/x\nga7HEhTB3wwkymaWSAaQAglNqftPJGz84iuDGzk8UOO6l6Pvv4P4R7WHp20w2rxK\nOkVSccmiMPbXW0vaXf7YqyK3tLCkOn9V/e7u2AY7JXxaQDhhw84xf+D1OvkRVUPa\nKPy1cnahosjo/uR/NYKOyMF692IbcGtwuU5gwFUWSxExjDm5oFO/3I0KUXteAcHT\nEcmZEyMADsM1gzxf+JI0QzULZ7FiZEAbr/DWkKoEzUGoWKiJTZwmk6/3PPhdWS1+\nbMIvdpjtEZCeTlkHrE7i3p9/RqA6lHisSWpIEMwwN8GtjIuFiQ+4tyTOLZTX+U3P\nDuu+X3l1AgMBAAECggEAG65EjCzuUfNyCrDSvZpLODkgtVc8+IGam/NKl3Exr7yA\ngNRHgRqmgrh3ob6okc5JsGM2AZjSDj7nwQX9pBb3qEg0jQCseH23YdoiN6TrXkCQ\nX0owPKJZGQZ1xUQYH46EscaUQAd7sxsmIUmyi7g4SEsFzIIr+qD6UVP/dlewgvb+\n5xQPTNbtUmUUlmpU4P+X6RphVgLsKWuL4YbYLPiu0wGZTufcXP1OaGGLdZD+i+Vu\necsIhBUL51GoUoJeVsUI33DMGCx32fr8HC5TS5tXzXPJqztptfX/KMI2SpSPuC/W\nJkRdiES1razqgFNWcyzcwD71CE0AaZvFJisJm6r3DwKBgQD9Zhmx4AsiMaT7yqwr\nLwOM8WE9ARLvY3IwFx/oelp93ctIWRJhlaFcBfHVs3zbhf4lVEOzYW9geAn0riPr\nTVgm77DdkGj9iIwXzabQvnhuDRPQQDzeWYzKKbJYTUnQvyv0M5NgUp4SGciFNRCy\nf6qMDfz2oOPlHk0zkhL5VF2y0wKBgQDpGSFIspTtTYKcR7wNdMxhuAW5vpOivjiX\nvTDogDFufh3lWODRhAn3oLe2Z3t6UrihkYlORVSaCqcVS4R3Y6tdIypnLw0nV4iH\nCpt4SgwKc8bBGXI7Y2yydhaK/bvxJAAJ+pdGzvBDIoLU01SSZpPPBcoso2FmL5CQ\noINJzCOllwKBgQCJmdvyH3tsQhEZOeFsQcdnzdvDyMWDgTkMrEIDeA2Ts9EjpFq6\n6woIcqH0LddrTcPIeY2Z5xsYA5dEaxvONt3bpuUgK78XjgKlGmOvjv7OpANSXs+u\n3mn5jdLu6GlhFa7EmQ06jSKRKbcdvscmZvUxwJbRRmT6kg3SJ0xuYEXRSQKBgH+O\nL+ePSe3dx4Zrvt2CN8GVqRRu1G1vOJrYfeYNGH/FZei2TTh5z9aBTWb0k95pW/2W\nHZQGXnh5Mdt2WsPWd9TcxHx4g/MudFipllAp/RLPLklG+nrDOp0h/84JcYpQz/Cl\n/5hQ76tdPEjoaFRA68uS+IKa2VbI2ow6Of3tRuh7AoGAJhebCL0paZonuClVVUOB\nTFeAWX7sVeMV7EiUnP7LnkiIc9wM4IgDOaIRGOWC2KxzFNY5r6Uqh3C69N6VKpxA\nW9h90y4SUDrKOkC7unlC7rOUPsmrUhZA3dAdZbQUhfUdZjKBxsQvLzYsHU3SWLjr\nM6TYVkThWV8KFmSYgWkKmTs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "workout-app-service@workout-uploader-456118.iam.gserviceaccount.com",
+  "client_id": "107788184918532768018",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/workout-app-service%40workout-uploader-456118.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
